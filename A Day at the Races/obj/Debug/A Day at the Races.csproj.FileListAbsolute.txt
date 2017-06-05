@@ -1,0 +1,9 @@
+c:\users\ryhar\documents\visual studio 2013\Projects\A Day at the Races\A Day at the Races\bin\Debug\A Day at the Races.exe.config
+c:\users\ryhar\documents\visual studio 2013\Projects\A Day at the Races\A Day at the Races\obj\Debug\A Day at the Races.csprojResolveAssemblyReference.cache
+c:\users\ryhar\documents\visual studio 2013\Projects\A Day at the Races\A Day at the Races\obj\Debug\A_Day_at_the_Races.Form1.resources
+c:\users\ryhar\documents\visual studio 2013\Projects\A Day at the Races\A Day at the Races\obj\Debug\A_Day_at_the_Races.Properties.Resources.resources
+c:\users\ryhar\documents\visual studio 2013\Projects\A Day at the Races\A Day at the Races\obj\Debug\A Day at the Races.csproj.GenerateResource.Cache
+c:\users\ryhar\documents\visual studio 2013\Projects\A Day at the Races\A Day at the Races\bin\Debug\A Day at the Races.exe
+c:\users\ryhar\documents\visual studio 2013\Projects\A Day at the Races\A Day at the Races\bin\Debug\A Day at the Races.pdb
+c:\users\ryhar\documents\visual studio 2013\Projects\A Day at the Races\A Day at the Races\obj\Debug\A Day at the Races.exe
+c:\users\ryhar\documents\visual studio 2013\Projects\A Day at the Races\A Day at the Races\obj\Debug\A Day at the Races.pdb
