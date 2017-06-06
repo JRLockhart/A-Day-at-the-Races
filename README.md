@@ -1,2 +1,2 @@
 # A-Day-at-the-Races
-This program was a lab that was presented in Headfirst c#. It presented a blue print for a program and I had to design the rest. The program will allow three guys to place bets on which dog will win the race. After the race, the total amount of cash each guy has must be updated to their new total.
+This program was a lab that was presented in Headfirst c#. The lab provides the blueprint on what the program should do and the step to accomplish the take. The program " A Day at the Races" is my solution to the lab.
